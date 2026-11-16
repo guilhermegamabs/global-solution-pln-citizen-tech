@@ -1,4 +1,4 @@
-"""Gera o relatório da Global Solution de PLN no padrão dos relatórios das outras disciplinas
+"""Gera o relatório da Global Solution de PLN
 (capa FIAP, título "CitizenTech · Orienta Saúde", tabelas de cabeçalho preto, rodapé "Página N").
 
 Todo número do relatório vem dos arquivos em resultados/ e testMaterial/: nada é digitado à mão.
@@ -114,7 +114,7 @@ def lista(itens):
 
 
 def tabela(linhas, larguras, alinharDireita=()):
-    """Cabeçalho preto com texto branco, linhas alternadas em cinza claro, como nas outras entregas."""
+    """Cabeçalho preto com texto branco, linhas alternadas em cinza claro."""
     dados = []
     for i, linha in enumerate(linhas):
         dados.append([Paragraph(md(str(c)), celulaB if i == 0 else celula) for c in linha])
