@@ -4,6 +4,8 @@ Assistente de voz em português da Global Solution 2027 de Processamento de Ling
 
 **Integrante:** Guilherme Gama Bitencourt Souza · RM565293
 
+**Vídeo:** https://youtu.be/6ioEu71SQdk
+
 ## Persona, problema e ODS
 
 - **Persona:** Dona Maria, 68 anos, baixa escolaridade, tem dificuldade para digitar no celular. Também serve cuidadores de crianças, pessoas com deficiência visual ou motora e quem está com as mãos ocupadas.
