@@ -1,0 +1,21 @@
+arquivo,voz,ruido,textoReferencia,sexo,faixaEtaria,sotaque,dispositivo
+stt01.wav,voz1,nao,estou com dor de garganta e coriza há dois dias,masculino,18 a 29,Paulistano,Notebook
+stt02.wav,voz1,nao,meu filho está com febre e quase não bebe água,masculino,18 a 29,Paulistano,Notebook
+stt03.wav,voz1,nao,quando devo ligar para o samu,masculino,18 a 29,Paulistano,Notebook
+stt04.wav,voz1,nao,onde eu posso tomar a vacina da gripe,masculino,18 a 29,Paulistano,Notebook
+stt05.wav,voz1,nao,minha mãe caiu em casa e está com dor no quadril,masculino,18 a 29,Paulistano,Notebook
+stt06.wav,voz1,nao,qual a diferença entre a upa e a unidade básica de saúde,masculino,18 a 29,Paulistano,Notebook
+stt07.wav,voz2,nao,estou com falta de ar e muito cansaço,feminino,18 a 29,Paulistano,Notebook
+stt08.wav,voz2,nao,meu pai está com o rosto torto e a fala enrolada,feminino,18 a 29,Paulistano,Notebook
+stt09.wav,voz2,nao,preciso marcar consulta na unidade básica de saúde,feminino,18 a 29,Paulistano,Notebook
+stt10.wav,voz2,nao,estou com diarreia e vômito desde ontem,feminino,18 a 29,Paulistano,Notebook
+stt11.wav,voz2,nao,qual remédio eu posso tomar para dor de cabeça,feminino,18 a 29,Paulistano,Notebook
+stt12.wav,voz2,nao,a pressão está alta e estou com tontura,feminino,18 a 29,Paulistano,Notebook
+stt13.wav,voz3,nao,meu bebê de dois meses está com febre,feminino,45 a 59,Bahiana,Notebook
+stt14.wav,voz3,nao,cortei a mão e o sangramento não para,feminino,45 a 59,Bahiana,Notebook
+stt15.wav,voz3,nao,qual o telefone do disque saúde,feminino,45 a 59,Bahiana,Notebook
+stt16.wav,voz1,sim,estou com dor forte no peito e suor frio,masculino,18 a 29,Paulistano,Notebook
+stt17.wav,voz2,sim,minha filha tem trinta e nove graus de febre,feminino,18 a 29,Paulistano,Notebook
+stt18.wav,voz3,sim,onde fica a upa mais próxima da minha casa,feminino,45 a 59,Bahiana,Notebook
+stt19.wav,voz1,sim,é gratuito ligar para o cento e noventa e dois,masculino,18 a 29,Paulistano,Notebook
+stt20.wav,voz3,sim,estou muito triste e preciso de ajuda,feminino,45 a 59,Bahiana,Notebook

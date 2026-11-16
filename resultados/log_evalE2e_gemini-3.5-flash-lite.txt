@@ -1,0 +1,19 @@
+Whisper: GPU indisponível (Library cublas64_12.dll is not found or cannot be loaded); usando CPU.
+concluída c01
+concluída c02
+concluída c03
+concluída c04
+concluída c05
+concluída c06
+concluída c07
+concluída c08
+concluída c09
+concluída c10
+
+Latência média em segundos (30 turnos):
+  stt: 2.89
+  llm: 2.13
+  prep: 0.00
+  tts: 5.21
+  total: 10.23
+Salvo em F:\FIAP\Segundo Ano\Global Solution\Segundo Semestre\PROCESSAMENTO DE LINGUAGEM NATURAL\orienta-saude-voz\resultados\e2eResultados.csv

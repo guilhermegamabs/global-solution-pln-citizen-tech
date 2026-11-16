@@ -1,0 +1,17 @@
+Whisper: GPU indisponível (Library cublas64_12.dll is not found or cannot be loaded); usando CPU.
+
+Modelo small: WER médio 0.142 e 1.66 s por áudio, em 20 áudios
+  voz=voz1: 0.086 (8 áudios)
+  voz=voz2: 0.249 (7 áudios)
+  voz=voz3: 0.081 (5 áudios)
+  ruido=nao: 0.167 (15 áudios)
+  ruido=sim: 0.067 (5 áudios)
+  sexo=feminino: 0.179 (12 áudios)
+  sexo=masculino: 0.086 (8 áudios)
+  faixaEtaria=18 a 29: 0.162 (15 áudios)
+  faixaEtaria=45 a 59: 0.081 (5 áudios)
+  sotaque=Bahiana: 0.081 (5 áudios)
+  sotaque=Paulistano: 0.162 (15 áudios)
+  dispositivo=Notebook: 0.142 (20 áudios)
+
+Salvo em F:\FIAP\Segundo Ano\Global Solution\Segundo Semestre\PROCESSAMENTO DE LINGUAGEM NATURAL\orienta-saude-voz\resultados\sttResultados.csv
