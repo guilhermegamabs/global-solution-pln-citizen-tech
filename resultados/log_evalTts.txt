@@ -1,0 +1,11 @@
+gerado tts01.mp3
+gerado tts02.mp3
+gerado tts03.mp3
+gerado tts04.mp3
+gerado tts05.mp3
+gerado tts06.mp3
+gerado tts07.mp3
+gerado tts08.mp3
+gerado tts09.mp3
+gerado tts10.mp3
+planilha criada em F:\FIAP\Segundo Ano\Global Solution\Segundo Semestre\PROCESSAMENTO DE LINGUAGEM NATURAL\orienta-saude-voz\testMaterial\tts\avaliacao.csv: peça a cada avaliador para ouvir os áudios e preencher notas de 1 a 5

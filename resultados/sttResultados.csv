@@ -1,0 +1,41 @@
+modelo,arquivo,referencia,hipotese,wer,segundos,voz,ruido,sexo,faixaEtaria,sotaque,dispositivo
+small,stt01.wav,estou com dor de garganta e coriza há dois dias,estou com duarte greganta e coriza há dois dias,0.3,3.149,voz1,nao,masculino,18 a 29,Paulistano,Notebook
+small,stt02.wav,meu filho está com febre e quase não bebe água,meu filho está com febre e quase não bebe água,0.0,2.512,voz1,nao,masculino,18 a 29,Paulistano,Notebook
+small,stt03.wav,quando devo ligar para o samu,quando devo ligar para o samurra,0.1667,2.388,voz1,nao,masculino,18 a 29,Paulistano,Notebook
+small,stt04.wav,onde eu posso tomar a vacina da gripe,onde eu posso tomar a vacina da gripe,0.0,2.487,voz1,nao,masculino,18 a 29,Paulistano,Notebook
+small,stt05.wav,minha mãe caiu em casa e está com dor no quadril,minha mãe caiu em casa e está com dor no quadril,0.0,2.433,voz1,nao,masculino,18 a 29,Paulistano,Notebook
+small,stt06.wav,qual a diferença entre a upa e a unidade básica de saúde,qual a diferença entre a upa e a unidade básica de saúde,0.0,2.595,voz1,nao,masculino,18 a 29,Paulistano,Notebook
+small,stt07.wav,estou com falta de ar e muito cansaço,estou com falta de ar e muito cansado,0.125,2.362,voz2,nao,feminino,18 a 29,Paulistano,Notebook
+small,stt08.wav,meu pai está com o rosto torto e a fala enrolada,meu pai está com luz torta e a fala enrolada,0.2727,2.529,voz2,nao,feminino,18 a 29,Paulistano,Notebook
+small,stt09.wav,preciso marcar consulta na unidade básica de saúde,preciso marcar consulta na unidade básica de saúde,0.0,2.686,voz2,nao,feminino,18 a 29,Paulistano,Notebook
+small,stt10.wav,estou com diarreia e vômito desde ontem,estou com o dia rei vamos ver joão,0.8571,2.498,voz2,nao,feminino,18 a 29,Paulistano,Notebook
+small,stt11.wav,qual remédio eu posso tomar para dor de cabeça,qual remédio posso tomar para dor de cabeça,0.1111,2.432,voz2,nao,feminino,18 a 29,Paulistano,Notebook
+small,stt12.wav,a pressão está alta e estou com tontura,a presta está alta e estou com fontura,0.25,2.643,voz2,nao,feminino,18 a 29,Paulistano,Notebook
+small,stt13.wav,meu bebê de dois meses está com febre,meu bebê de dois meses está com febre,0.0,2.404,voz3,nao,feminino,45 a 59,Bahiana,Notebook
+small,stt14.wav,cortei a mão e o sangramento não para,corte a mão e o sangramento não para,0.125,2.397,voz3,nao,feminino,45 a 59,Bahiana,Notebook
+small,stt15.wav,qual o telefone do disque saúde,qual o telefone do disc saúde,0.1667,2.277,voz3,nao,feminino,45 a 59,Bahiana,Notebook
+small,stt16.wav,estou com dor forte no peito e suor frio,estou com dor forte no peito e soar frio,0.1111,2.614,voz1,sim,masculino,18 a 29,Paulistano,Notebook
+small,stt17.wav,minha filha tem trinta e nove graus de febre,minha filha tem trinta e nove graus de febre,0.0,2.481,voz2,sim,feminino,18 a 29,Paulistano,Notebook
+small,stt18.wav,onde fica a upa mais próxima da minha casa,onde fica a roupa mais próxima da minha casa,0.1111,2.355,voz3,sim,feminino,45 a 59,Bahiana,Notebook
+small,stt19.wav,é gratuito ligar para o cento e noventa e dois,é gratuito ligar para o cento e noventa e dois,0.0,2.197,voz1,sim,masculino,18 a 29,Paulistano,Notebook
+small,stt20.wav,estou muito triste e preciso de ajuda,estou muito triste e preciso de ajuda,0.0,2.259,voz3,sim,feminino,45 a 59,Bahiana,Notebook
+medium,stt01.wav,estou com dor de garganta e coriza há dois dias,estou com dor de garganta e coriza há dois dias,0.0,6.967,voz1,nao,masculino,18 a 29,Paulistano,Notebook
+medium,stt02.wav,meu filho está com febre e quase não bebe água,meu filho está com febre e quase não bebe água,0.0,6.724,voz1,nao,masculino,18 a 29,Paulistano,Notebook
+medium,stt03.wav,quando devo ligar para o samu,quando devo ligar para o samuro,0.1667,6.753,voz1,nao,masculino,18 a 29,Paulistano,Notebook
+medium,stt04.wav,onde eu posso tomar a vacina da gripe,onde eu posso tomar a vacina da gripe,0.0,6.611,voz1,nao,masculino,18 a 29,Paulistano,Notebook
+medium,stt05.wav,minha mãe caiu em casa e está com dor no quadril,minha mãe caiu em casa e está com dor no quadril,0.0,6.824,voz1,nao,masculino,18 a 29,Paulistano,Notebook
+medium,stt06.wav,qual a diferença entre a upa e a unidade básica de saúde,qual a diferença entre a upa e a unidade básica de saúde,0.0,7.053,voz1,nao,masculino,18 a 29,Paulistano,Notebook
+medium,stt07.wav,estou com falta de ar e muito cansaço,estou com falta de ar e muito cansada,0.125,6.577,voz2,nao,feminino,18 a 29,Paulistano,Notebook
+medium,stt08.wav,meu pai está com o rosto torto e a fala enrolada,meu pai está com luz torta e a fala enrolada,0.2727,7.156,voz2,nao,feminino,18 a 29,Paulistano,Notebook
+medium,stt09.wav,preciso marcar consulta na unidade básica de saúde,preciso marcar consulta na unidade básica de saúde,0.0,7.571,voz2,nao,feminino,18 a 29,Paulistano,Notebook
+medium,stt10.wav,estou com diarreia e vômito desde ontem,estou com o dia rei vamos no beijão,0.8571,7.434,voz2,nao,feminino,18 a 29,Paulistano,Notebook
+medium,stt11.wav,qual remédio eu posso tomar para dor de cabeça,qual remédio eu posso tomar para dor de cabeça,0.0,7.177,voz2,nao,feminino,18 a 29,Paulistano,Notebook
+medium,stt12.wav,a pressão está alta e estou com tontura,a pressão está alta e eu estou com tontura,0.125,7.235,voz2,nao,feminino,18 a 29,Paulistano,Notebook
+medium,stt13.wav,meu bebê de dois meses está com febre,meu bebê de dois meses está com febre,0.0,7.464,voz3,nao,feminino,45 a 59,Bahiana,Notebook
+medium,stt14.wav,cortei a mão e o sangramento não para,cortei a mão e o sangramento não para,0.0,7.641,voz3,nao,feminino,45 a 59,Bahiana,Notebook
+medium,stt15.wav,qual o telefone do disque saúde,qual telefone do disque saúde,0.1667,7.268,voz3,nao,feminino,45 a 59,Bahiana,Notebook
+medium,stt16.wav,estou com dor forte no peito e suor frio,estou com dor forte no peito e suor frio,0.0,7.614,voz1,sim,masculino,18 a 29,Paulistano,Notebook
+medium,stt17.wav,minha filha tem trinta e nove graus de febre,minha filha tem trinta e nove graus de febre,0.0,7.187,voz2,sim,feminino,18 a 29,Paulistano,Notebook
+medium,stt18.wav,onde fica a upa mais próxima da minha casa,onde fica o mais próximo da minha casa,0.3333,6.881,voz3,sim,feminino,45 a 59,Bahiana,Notebook
+medium,stt19.wav,é gratuito ligar para o cento e noventa e dois,é gratuito ligar para o cento e noventa e dois,0.0,6.869,voz1,sim,masculino,18 a 29,Paulistano,Notebook
+medium,stt20.wav,estou muito triste e preciso de ajuda,estou muito triste e preciso de ajuda,0.0,6.67,voz3,sim,feminino,45 a 59,Bahiana,Notebook

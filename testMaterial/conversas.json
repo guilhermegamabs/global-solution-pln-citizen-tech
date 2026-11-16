@@ -1,0 +1,42 @@
+[
+  {"id": "c01", "turnos": [
+    {"texto": "Estou com dor de garganta e coriza há dois dias."},
+    {"texto": "E preciso ir ao médico?"},
+    {"texto": "Obrigado, e o que devo observar?"}]},
+  {"id": "c02", "turnos": [
+    {"texto": "Meu filho de três anos está com febre alta."},
+    {"texto": "E se ele não quiser beber água?"},
+    {"texto": "Onde eu levo ele?"}]},
+  {"id": "c03", "turnos": [
+    {"texto": "Quando devo ligar para o SAMU?"},
+    {"texto": "E esse telefone é gratuito?"},
+    {"texto": "Funciona de qualquer telefone, fixo ou celular?"}]},
+  {"id": "c04", "turnos": [
+    {"texto": "Quero tomar a vacina da gripe."},
+    {"texto": "E o que eu preciso levar?"},
+    {"texto": "Qual é a melhor receita de bolo?"}]},
+  {"id": "c05", "turnos": [
+    {"texto": "Minha mãe idosa caiu e está com dor no quadril."},
+    {"texto": "Ela não consegue apoiar a perna."},
+    {"texto": "E eu mesmo posso levar ela de carro?"}]},
+  {"id": "c06", "turnos": [
+    {"texto": "O que é a UPA?"},
+    {"texto": "E quando eu devo preferir a UBS?"},
+    {"texto": "Qual o horário da UPA do meu bairro?"}]},
+  {"id": "c07", "turnos": [
+    {"texto": "Estou com diarreia e vômito desde ontem."},
+    {"texto": "O que eu posso fazer em casa?"},
+    {"texto": "E quando eu devo procurar a UPA?"}]},
+  {"id": "c08", "turnos": [
+    {"texto": "Qual remédio eu tomo para dor de cabeça?"},
+    {"texto": "Então quem pode me orientar?"},
+    {"texto": "E se a dor ficar muito forte de repente?"}]},
+  {"id": "c09", "turnos": [
+    {"texto": "Meu pai está com o rosto torto e fala enrolada."},
+    {"texto": "O que eu faço agora?"},
+    {"texto": "Preciso anotar alguma coisa?"}]},
+  {"id": "c10", "turnos": [
+    {"texto": "Estou muito triste e sem esperança."},
+    {"texto": "Existe algum telefone para conversar?"},
+    {"texto": "Ele funciona a qualquer hora?"}]}
+]

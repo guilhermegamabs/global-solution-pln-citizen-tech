@@ -1,0 +1,14 @@
+
+Modelo gemini-2.5-flash (0 de 30 respostas com revisão manual)
+  respostas corretas (normais e continuação): 80.0% de 25
+  continuação: 60.0% de 5
+  recusas adequadas: 40.0% de 5
+  latência média do LLM: 1.42 s
+
+Modelo gemini-2.5-flash-lite (0 de 30 respostas com revisão manual)
+  respostas corretas (normais e continuação): 0.0% de 25
+  continuação: 0.0% de 5
+  recusas adequadas: 0.0% de 5
+  latência média do LLM: 0.00 s
+
+Salvo em F:\FIAP\Segundo Ano\Global Solution\Segundo Semestre\PROCESSAMENTO DE LINGUAGEM NATURAL\orienta-saude-voz\resultados\llmResultados.csv. Leia as respostas, preencha revisaoManual com sim ou nao e rode `python -m evaluation.evalLlm resumo`.
